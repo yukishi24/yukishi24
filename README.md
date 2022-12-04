@@ -4,7 +4,7 @@
 - I am a new graduate from April 2022 and working as a server side engineer at a system engineering service company. 👽
 - My favorite foods are chocolate 🍫, ramen 🍜, crab 🦀, coffee ☕
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukishi24)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukishi24&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukishi24
 )](https://github.com/anuraghazra/github-readme-stats)
