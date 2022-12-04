@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/github/gist/stars/yukishi24?style=social" />
+
 - 👋 Hi, I’m @yukishi24
 - 👀 I’m interested in Java ☕:
 - 🌱 I’m currently learning Java ☕ & Sprong Boot 🥗
@@ -11,5 +13,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yukishi24&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-https://img.shields.io/github/gist/stars/yukishi24?style=social
