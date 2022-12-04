@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/github/gist/stars/yukishi24?style=social" />
-
 - 👋 Hi, I’m @yukishi24
 - 👀 I’m interested in Java ☕:
 - 🌱 I’m currently learning Java ☕ & Sprong Boot 🥗
