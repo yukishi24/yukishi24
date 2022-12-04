@@ -12,4 +12,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yukishi24&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-https://komarev.com/ghpvc/?username=yukishi24
+https://img.shields.io/github/gist/stars/yukishi24?style=social
