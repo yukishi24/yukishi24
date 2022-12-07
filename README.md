@@ -4,9 +4,6 @@
 - I am a new graduate from April 2022 and working as a server side engineer at a system engineering service company. 👽
 - My favorite foods are chocolate 🍫, ramen 🍜, crab 🦀, coffee ☕
 
-
-https://github-stats-evirunurm.vercel.app/api/stats.js?username=yukishi24
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukishi24&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukishi24&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
