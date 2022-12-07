@@ -23,12 +23,6 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/RedRing/contributions.svg)](http://qiita.com/RedRing)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/RedRing/followers.svg)](http://qiita.com/RedRing)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yukishi24&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/yukishi24/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukishi24" />
-</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yukishi24&margin-w=0)](https://github.com/ryo-ma/github-profile-trophy)
 [![My profile summary cards](https://raw.githubusercontent.com/yukishi24/yukishi24/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
