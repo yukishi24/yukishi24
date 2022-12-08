@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/yukishi24?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTokyo)
+
 - 👋 Hi, I’m @yukishi24
 - 👀 I’m interested in Java ☕:
 - 🌱 I’m currently learning Java ☕ & Sprong Boot 🥗
@@ -11,6 +13,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yukishi24&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-![Metrics](https://metrics.lecoq.io/yukishi24?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTokyo)
 
