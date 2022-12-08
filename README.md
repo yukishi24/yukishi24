@@ -14,11 +14,3 @@
 
 ![Metrics](https://metrics.lecoq.io/yukishi24?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FTokyo)
 
-![My Profile views](https://komarev.com/ghpvc/?username=yukishi24)
-[![My twitter](https://img.shields.io/twitter/follow/yukishi24?label=Twitter&logo=twitter&style=flat)](https://twitter.com/yukishi24)
-[![My github](https://img.shields.io/github/followers/yukishi24?label=follow&logo=github&style=flat)](https://github.com/yukishi24)
-[![My reddit](https://img.shields.io/reddit/user-karma/combined/yukishi24?label=Reddit&logo=reddit&style=flat)](https://www.reddit.com/user/yukishi24)
-[![My stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/18312637?label=StackOverflow&logo=stack-overflow&style=flat)](https://ja.stackoverflow.com/users/51688/redring)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/RedRing/posts.svg)](http://qiita.com/RedRing)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/RedRing/contributions.svg)](http://qiita.com/RedRing)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/RedRing/followers.svg)](http://qiita.com/RedRing)
