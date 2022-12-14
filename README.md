@@ -10,13 +10,6 @@
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/shinyay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinyay&theme=blue-green&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyay&theme=blue-green&layout=compact" />
-  </a>
-</p>
-
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukishi24&layout=compact&count_private=true&show_icons=true&theme=onedark" />
